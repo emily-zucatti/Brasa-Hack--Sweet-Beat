@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: deffd2f52a34d4c44973fdfb34d6d70a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BottomObstacleBlue: {fileID: 5689544595550420035, guid: 4848781a3f8f0684a8fbfedce08ea517, type: 3}
+  - BottomObstacleBlueSlider: {fileID: 4075072488564074081, guid: 1bcb9cbdf8befd14c93628bfce7ef92a, type: 3}
+  - BottomObstacleYellow: {fileID: 6081753527980165677, guid: 69908fa499b2f0e40ae0c275ec472f64, type: 3}
+  - BottomObstacleYellowSlider: {fileID: 8119572180556071714, guid: 328c0651022357c4682be1e919ea5337, type: 3}
+  - TopObstacleGreen: {fileID: 5474055463047442712, guid: b4382e5f28ec7ab458488443fb3b79f8, type: 3}
+  - TopObstacleGreenSlider: {fileID: 7846020818201054916, guid: 659bcdd21bf21f641bb382d5d561c03a, type: 3}
+  - TopObstacleRed: {fileID: 6334548167032834082, guid: 104ce63fa9931f14eb37a8f71d42afcc, type: 3}
+  - TopObstacleRedSlider: {fileID: 7644061620521204488, guid: cb58f0a61bdf82143890a7dab79bfd09, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
